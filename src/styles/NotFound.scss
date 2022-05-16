@@ -1,0 +1,16 @@
+@import 'vars';
+
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    size: 30px;
+
+}
+h1{
+    size: 60px;
+    color: rgb(0, 232, 232);
+}

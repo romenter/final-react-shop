@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+}
+
+/* Agregado recien, arreglando problema de ejercicio arreglando problemas*/
+div{
+	align-items: inherit;
+}
